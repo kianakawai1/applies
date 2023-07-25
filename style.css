@@ -1,0 +1,16 @@
+body
+{
+	text-align: center;
+}
+#status
+{
+	font-size: 12px;
+	color: red;
+}
+
+canvas
+{
+	background-color: pink;
+	border-radius: 20px;
+	width:100%
+}
